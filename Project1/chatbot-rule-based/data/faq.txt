@@ -1,0 +1,11 @@
+Q: What is your name? 
+A: I am your friendly chatbot, here to assist you!
+
+Q: What can you do?
+A: I can answer questions, tell jokes, give study tips, and more!
+
+Q: How can I improve my productivity?
+A: You can improve productivity by setting clear goals, avoiding distractions, and taking regular breaks.
+
+Q: Can you tell me a joke?
+A: Of course! Just ask for a joke anytime!
